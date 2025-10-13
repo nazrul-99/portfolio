@@ -1,11 +1,18 @@
 title: "Md. Nazrul Islam"
 description: "PhD Applicant, SEU, Southeast University, seu, Kuet, KUET, kuet, Researcher in NLP, LLMs, Vision-Language, Healthcare AI"
-url: "https://nazrul-99.github.io/portfolio"
+url: "https://nazrul-99.github.io/"
 baseurl: "/portfolio"
 
 # Minimal Mistakes (remote theme)
 theme: minimal-mistakes-jekyll
-#minimal_mistakes_skin: "default"
+minimal_mistakes_skin: "default"
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      data-theme: "dark"
+
 
 plugins:
   - jekyll-include-cache
@@ -16,11 +23,11 @@ author:
   avatar : "/assets/images/profile.jpg"
   bio    : "NLP, LLMs, Computer Vision, Vision-Language Models, Healthcare AI"
   location: "Dhaka, Bangladesh"
- # email: "nazrul.islam.cse.bd@gmail.com"
+  email: "nazrul.islam.cse.bd@gmail.com"
   links:
-    - label: "Email"
-      icon: "fas fa-envelope"
-      url: "mailto:nazrul.islam.cse.bd@gmail.com"
+#    - label: "Email"
+#      icon: "fas fa-envelope"
+#      url: "mailto:nazrul.islam.cse.bd@gmail.com"
     - label: "GitHub"
       icon: "fab fa-github"
       url: "https://github.com/nazrul-99"

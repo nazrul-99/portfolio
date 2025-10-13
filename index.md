@@ -115,13 +115,16 @@ Full list is on <a href="https://scholar.google.com/citations?user=qr34ziEAAAAJ&
 ## Leadership and Volunteer Experience {#leadership}
 - Moderator (August 2023-January 2024) <br>
 &nbsp; &nbsp; - Machine Learning Club, Uttara University, Dhaka, Bangladesh.<br>
+
 - Vice President (March 2022-March 2023)<br>
 &nbsp; &nbsp; - Hardware Acceleration Club of KUET (HACK), KUET, Khulna, Bangladesh<br>
 &nbsp; &nbsp; - Managed club activities, organized events, and conducted workshops on commonly used microcontrollers<br>
+
 - Senior Programmer (September 2020-December 2022)<br>
 &nbsp; &nbsp; - Software Sub-Team, KUET Mars Rover, Team Durbar, KUET, Khulna, Bangladesh<br>
-&nbsp; &nbsp; - Contributed to the computer vision component, including the development of a lightweight Convolutional
+&nbsp; &nbsp; - Contributed to the computer vision component, including the development of a lightweight Convolutional<br>
 &nbsp; &nbsp; - Neural Network (CNN) for object recognition.
+
 - Junior Programmer (March 2019- September 2020)<br>
 &nbsp; &nbsp; - Software Sub-Team, KUET Mars Rover, Team Durbar, KUET, Khulna, Bangladesh<br>
 &nbsp; &nbsp; - Worked with Arduino and Raspberry Pi to implement key systems for the Mars Rover.<br>
@@ -130,6 +133,6 @@ Full list is on <a href="https://scholar.google.com/citations?user=qr34ziEAAAAJ&
 <span id="contact" class="anchor-top"></span>
 ## Contact {#contact}
 
-- <a href="mailto:md.nazrulislam@example.com"><i class="fas fa-envelope"></i> Email </a>  
-- <a href="https://orcid.org/helloo.dfor.com"><i class="fab fa-orcid"></i> ORCID </a>  
-- <a href="https://github.com/nazrul-99"><i class="fab fa-github"></i> GitHub </a>
+- <a href="mailto:md.nazrulislam@example.com"> <i class="fas fa-envelope"></i>Email </a>  
+- <a href="https://orcid.org/helloo.dfor.com"> <i class="fab fa-orcid"></i>ORCID </a>  
+- <a href="https://github.com/nazrul-99"> <i class="fab fa-github"></i>GitHub </a>
