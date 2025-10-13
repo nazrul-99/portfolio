@@ -8,7 +8,6 @@ theme: minimal-mistakes-jekyll
 minimal_mistakes_skin: "default"
 
 plugins:
-  - jekyll-remote-theme
   - jekyll-include-cache
   - jemoji
 
