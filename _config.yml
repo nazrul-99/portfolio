@@ -25,6 +25,7 @@ author:
   bio    : "NLP, LLMs, Computer Vision, Vision-Language Models, Healthcare AI"
   location: "Dhaka, Bangladesh"
   email: "nazrul.islam.cse.bd@gmail.com"
+  home: false
   links:
 #    - label: "Email"
 #      icon: "fas fa-envelope"
