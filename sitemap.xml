@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/</loc>
+<loc>http://localhost:4000/portfolio/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/assets/docs/Diversity_Statement_base.pdf</loc>
-<lastmod>2025-10-14T02:25:59+06:00</lastmod>
+<loc>http://localhost:4000/portfolio/assets/docs/Diversity_Statement_base.pdf</loc>
+<lastmod>2025-10-14T02:37:56+06:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/assets/docs/SoP_base.pdf</loc>
-<lastmod>2025-10-14T02:25:59+06:00</lastmod>
+<loc>http://localhost:4000/portfolio/assets/docs/SoP_base.pdf</loc>
+<lastmod>2025-10-14T02:37:56+06:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/assets/docs/cv.pdf</loc>
-<lastmod>2025-10-14T02:25:59+06:00</lastmod>
+<loc>http://localhost:4000/portfolio/assets/docs/cv.pdf</loc>
+<lastmod>2025-10-14T02:37:56+06:00</lastmod>
 </url>
 </urlset>
