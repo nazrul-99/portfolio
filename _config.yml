@@ -1,11 +1,11 @@
 title: "Md. Nazrul Islam"
 description: "PhD Applicant, SEU, Southeast University, seu, Kuet, KUET, kuet, Researcher in NLP, LLMs, Vision-Language, Healthcare AI"
-url: "https://nazrul-99.github.io"
+url: "https://nazrul-99.github.io/portfolio"
 baseurl: "/portfolio"
 
 # Minimal Mistakes (remote theme)
 theme: minimal-mistakes-jekyll
-minimal_mistakes_skin: "default"
+#minimal_mistakes_skin: "default"
 
 plugins:
   - jekyll-include-cache
