@@ -12,9 +12,6 @@ defaults:
       path: ""
     values:
       data-theme: "dark"
-      
-include:
-  - _includes/author-profile
 
 
 
