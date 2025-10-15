@@ -1,5 +1,5 @@
 title: "Md. Nazrul Islam"
-description: "Md. Nazrul Islam, PhD Applicant; Lecturer Southeast University; Research interest in NLP, LLMs, Vision-Language, Healthcare AI"
+description: "Md. Nazrul Islam, PhD Applicant; Lecturer Southeast University, Bangladesh; Research interest in NLP, LLMs, Vision-Language, Healthcare AI"
 url: "https://nazrul-99.github.io"
 baseurl: "/portfolio"
 
@@ -25,7 +25,6 @@ author:
   bio    : "NLP, LLMs, Computer Vision, Vision-Language Models, Healthcare AI"
   location: "Dhaka, Bangladesh"
   email: "nazrul.islam.cse.bd@gmail.com"
-  url: "https://nazrul-99.github.io/portfolio"
   links:
 #    - label: "Email"
 #      icon: "fas fa-envelope"
