@@ -12,7 +12,7 @@ toc_sticky: false
 I am an aspiring researcher and educator specializing in CSE, with keen interests in **NLP**, **LLM**, **Vision Language Models**, and **Healthcare AI**. My academic journey began at **Khulna University of Engineering & Technology(KUET)**, **Bangladesh** and I currently serve as a **Lecturer** in the Department of Computer Science and Engineering at **Southeast University**, **Bangladesh**. In this role, I am actively involved in teaching, research, and mentorship. Throughout my career, I have demonstrated resilience, embraced collaborative efforts, and remain committed to contributing high quality scholarly work that advances the field. I am currently pursuing opportunities to undertake a **PhD** to further deepen my research expertise.
 
 <div class="btn-row">
-  <a class="btn btn--primary" href="/assets/docs/cv.pdf" download>Download CV</a>
+  <a class="btn btn--primary" href="{{ '/assets/docs/cv.pdf' | relative_url }}"   target="_blank" download>Download CV</a>
   <!--<a class="btn" href="/assets/docs/SoP_base.pdf" download>Statement of Purpose</a>
   <a class="btn" href="/assets/docs/Diversity_Statement_base.pdf" download>Diversity Statement</a>-->
 </div>

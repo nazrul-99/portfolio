@@ -1,6 +1,6 @@
 title: "Md. Nazrul Islam"
-description: "PhD Applicant, SEU, Southeast University, seu, Kuet, KUET, kuet, Researcher in NLP, LLMs, Vision-Language, Healthcare AI"
-url: "https://nazrul-99.github.io/"
+description: "Md. Nazrul Islam, PhD Applicant; Lecturer Southeast University; Research interest in NLP, LLMs, Vision-Language, Healthcare AI"
+url: "https://nazrul-99.github.io"
 baseurl: "/portfolio"
 
 # Minimal Mistakes (remote theme)
@@ -47,7 +47,7 @@ author:
       url: "https://nazrul-99.github.io"
     - label: "CV (PDF)"
       icon: "fas fa-file-pdf"
-      url: "/assets/docs/cv.pdf"
+      url: "/portfolio/assets/docs/cv.pdf"
 #    - label: "Statement of Purpose"
 #      icon: "fas fa-file-alt"
 #      url: "/assets/docs/SoP_base.pdf"
