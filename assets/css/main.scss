@@ -49,12 +49,28 @@ main,
 /* Dark mode (simple invert) */
 html[data-theme="dark"] {
   filter: invert(1) hue-rotate(180deg);
+  /* Navbar background */
+  .site-header,
+  header[role="banner"],
+  .navbar,
+  .greedy-nav,
+  .site-nav {
+    border-bottom: 1px solid #333;
+  }
+  /* Navbar links hover/focus */
+  .masthead__menu a:hover,
+  .greedy-nav a:hover,
+  .masthead__menu a:focus,
+  .greedy-nav a:focus {
+    color: #66ace0; /* lighter blue */
+  }
 }
 html[data-theme="dark"] img,
 html[data-theme="dark"] video,
 html[data-theme="dark"] .greedy-nav__toggle {
   filter: invert(1) hue-rotate(180deg);
 }
+
 
 /* Section spacing */
 .section {
@@ -63,9 +79,19 @@ html[data-theme="dark"] .greedy-nav__toggle {
 
 .anchor-top {
   position: relative;
-  top: -90px; /* offset for sticky header */
+  top: -60px; /* offset for sticky header */
   visibility: hidden;
 }
 
 /* Buttons row for downloads */
 .btn-row .btn { margin-right: .5rem; margin-bottom: .5rem; }
+
+.author__name a {
+  pointer-events: none !important;
+  cursor: default !important;
+}
+
+.author__avatar a {
+  pointer-events: none !important;
+  cursor: default !important;
+}
