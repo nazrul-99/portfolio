@@ -55,16 +55,21 @@ Full list is on <a href="https://scholar.google.com/citations?user=qr34ziEAAAAJ&
 
 <span id="projects" class="anchor-top"></span>
 ## Projects {#projects}
-
-- Simulation of Season Change using OpenGL | <a href="https://github.com/nazrul-99/Simulation-of-Season-Change-using-OpenGL" target="_blank" rel="noopener">github_link </a> | 2022 | OpenGL, C++ <br>
+-	BanglaBERT-Defense: Analyzing Adversarial Attacks in Low-Resource NLP | <a href="https://github.com/nazrul-99/Bangla-Ner-Adversial-Attack" target="_blank" rel="noopener">github_link </a> | Pytorch, Python <br>
+    &nbsp; &nbsp;  A project for improving NLP security for low-resource languages, especially Bangla. Here, I set out to answer a simple question: How vulnerable are our best Bangla language models to adversarial attacks?
+-	Simple Reinforcement Learning and Lightweight LLM for Text-to-SQL Generation  | <a href="https://github.com/nazrul-99/Text-to-Sql/tree/master" target="_blank" rel="noopener">github_link </a> | Pytorch, Python <br>
+    &nbsp; &nbsp; A tiny BERT-based model—paired with a simple reinforcement learning (RL) algorithm that could translate English texts into proper SQL commands. Here I used well-known Spider dataset.
+- Simulation of Season Change using OpenGL | <a href="https://github.com/nazrul-99/Simulation-of-Season-Change-using-OpenGL" target="_blank" rel="noopener">github_link </a> | OpenGL, C++ <br>
     &nbsp; &nbsp; The project contains a 3D scene of a village where the change of season is shown. The scene is developed using textures, lighting properties and shading.
-- Blood Transfusion System | <a href="https://github.com/nazrul-99/Blood-Transfustion-System" target="_blank" rel="noopener">github_link </a> | 2021 | Java, OSM, Firebase, Android Studio <br>
+- ML Toolkit & Projects: Learning through Experimentation | <a href="https://github.com/nazrul-99/ML" target="_blank" rel="noopener">github_link </a> | Python, TensorFlow, SciPy, Scikit-learn, NumPy, Pandas <br> 
+    &nbsp; &nbsp; The repository features various machine learning algorithms and tools to demonstrate how they work and to build practical projects. It covers clustering methods such as DBSCAN and K-Means, as well as classification models including Decision Trees, SVM, and others.
+- Blood Transfusion System | <a href="https://github.com/nazrul-99/Blood-Transfustion-System" target="_blank" rel="noopener">github_link </a> | Java, OSM, Firebase, Android Studio <br>
 	&nbsp; &nbsp; The android application is built by maintaining traditional software development methods. It is constructed keeping in mind the Blood Transfusion Unit.
-- Animal World | <a href="https://github.com/nazrul-99/Animal-World" target="_blank" rel="noopener">github_link </a> | 2021 | Python, OpenCV, Matplotlib <br>
+- Animal World | <a href="https://github.com/nazrul-99/Animal-World" target="_blank" rel="noopener">github_link </a> | Python, OpenCV, Matplotlib <br>
 	&nbsp; &nbsp; A simple simulation of three animals' ecosystems has been developed for AI Lab.
-- Cinema Hall Booking System | <a href="https://github.com/nazrul-99/Cinema-Hall-Booking-System-ASP.NET" target="_blank" rel="noopener">github_link </a> | 2021 | HTML, CSS, ASP dot net <br>
+- Cinema Hall Booking System | <a href="https://github.com/nazrul-99/Cinema-Hall-Booking-System-ASP.NET" target="_blank" rel="noopener">github_link </a> | HTML, CSS, ASP dot net <br>
 	&nbsp; &nbsp; A website is built using ASP.net for booking or buying movies and making payments.
-- Mini Compiler | <a href="https://github.com/nazrul-99/Mini-Compiler-Design-Project" target="_blank" rel="noopener">github_link </a> | 2021 | C, CPP, Flex, Bison <br>
+- Mini Compiler | <a href="https://github.com/nazrul-99/Mini-Compiler-Design-Project" target="_blank" rel="noopener">github_link </a> | C, CPP, Flex, Bison <br>
 	&nbsp; &nbsp; It is a simple compiler where basic arithmetic and logical operations are implemented together with for and while loops. Also, the function definition is present.
 
 ---
