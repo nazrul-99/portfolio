@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>http://localhost:4000/portfolio/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/portfolio/assets/docs/Diversity_Statement_base.pdf</loc>
+<lastmod>2025-11-22T12:24:18+06:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/portfolio/assets/docs/SoP_base.pdf</loc>
+<lastmod>2025-11-22T12:24:18+06:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/portfolio/assets/docs/cv.pdf</loc>
+<lastmod>2025-11-22T12:38:52+06:00</lastmod>
+</url>
+</urlset>
