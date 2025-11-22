@@ -9,7 +9,7 @@ toc_sticky: false
 <span id="about" class="anchor-top"></span>
 ## About {#about}
 
-I am an aspiring researcher and educator specializing in CSE, with keen interests in **NLP**, **LLM**, **Vision Language Models**, and **Healthcare AI**. My academic journey began at **Khulna University of Engineering & Technology(KUET)**, **Bangladesh** and I currently serve as a **Lecturer** in the Department of Computer Science and Engineering at **Southeast University**, **Bangladesh**. In this role, I am actively involved in teaching, research, and mentorship. Throughout my career, I have demonstrated resilience, embraced collaborative efforts, and remain committed to contributing high quality scholarly work that advances the field. I am currently pursuing opportunities to undertake a **PhD** to further deepen my research expertise.
+I am an aspiring researcher and educator specializing in CSE, with keen interests in **Vision Language Models**, **Robotics**, **NLP**, **LLM**, **Security of LLM** and **Healthcare AI**. My academic journey began at **Khulna University of Engineering & Technology(KUET)**, **Bangladesh** and I currently serve as a **Lecturer** in the Department of Computer Science and Engineering at **Southeast University**, **Bangladesh**. In this role, I am actively involved in teaching, research, and mentorship. Throughout my career, I have demonstrated resilience, embraced collaborative efforts, and remain committed to contributing high quality scholarly work that advances the field. I am currently pursuing opportunities to undertake a **PhD** to further deepen my research expertise.
 
 <div class="btn-row">
   <a class="btn btn--primary" href="{{ '/assets/docs/cv.pdf' | relative_url }}"   target="_blank" download>Download CV</a>
@@ -42,12 +42,12 @@ Full list is on <a href="https://scholar.google.com/citations?user=qr34ziEAAAAJ&
 
 #### Journals:
 
-1. Sen, Ovishake, Mohtasim Fuad, **Md Nazrul Islam**, Jakaria Rabbi, Mehedi Masud, Md Kamrul Hasan, Md Abdul Awal et al. **Bangla natural language processing: A comprehensive analysis of classical, machine learning, and deep learning-based methods**. *IEEE Access 10 (2022): 38999-39044*. DOI: <a href="https://doi.org/10.1109/ACCESS.2022.3165563" target="_blank" rel="noopener">10.1109/ACCESS.2022.3165563</a>
+1. Sen, Ovishake, Mohtasim Fuad, **Md Nazrul Islam**, Jakaria Rabbi, Mehedi Masud, Md Kamrul Hasan, Md Abdul Awal et al. ***Bangla natural language processing: A comprehensive analysis of classical, machine learning, and deep learning-based methods***. *IEEE Access 10 (2022): 38999-39044*. DOI: <a href="https://doi.org/10.1109/ACCESS.2022.3165563" target="_blank" rel="noopener">10.1109/ACCESS.2022.3165563</a>
 
-2. Fuad, Md Tahmid Hasan, Awal Ahmed Fime, Delowar Sikder, Md Akil Raihan Iftee, Jakaria Rabbi, Mabrook S. Al-Rakhami, Abdu Gumaei, Ovishake Sen, Mohtasim Fuad, and **Md Nazrul Islam**. **Recent advances in deep learning techniques for face recognition**." *IEEE Access 9 (2021): 99112-99142*. DOI: <a href="https://doi.org/10.1109/ACCESS.2021.3096136" target="_blank" rel="noopener">110.1109/ACCESS.2021.3096136</a>
+2. Fuad, Md Tahmid Hasan, Awal Ahmed Fime, Delowar Sikder, Md Akil Raihan Iftee, Jakaria Rabbi, Mabrook S. Al-Rakhami, Abdu Gumaei, Ovishake Sen, Mohtasim Fuad, and ***Md Nazrul Islam**. **Recent advances in deep learning techniques for face recognition***." *IEEE Access 9 (2021): 99112-99142*. DOI: <a href="https://doi.org/10.1109/ACCESS.2021.3096136" target="_blank" rel="noopener">110.1109/ACCESS.2021.3096136</a>
 
 #### Conferences:
-1. Ahamed, Towsif, **Md Nazrul Islam**, SM Taslim Uddin Raju, and M. M. A. Hashem. **Blood donor arrival forecasting using regression model and analysis of donor behavioural pattern**. In *2022 25th International Conference on Computer and Information Technology (ICCIT), pp. 897-902. IEEE, 2022*. DOI: <a href="https://doi.org/10.1109/ICCIT57492.2022.10054710" target="_blank" rel="noopener">10.1109/ICCIT57492.2022</a>
+1. Ahamed, Towsif, **Md Nazrul Islam**, SM Taslim Uddin Raju, and M. M. A. Hashem. ***Blood donor arrival forecasting using regression model and analysis of donor behavioural pattern***. In *2022 25th International Conference on Computer and Information Technology (ICCIT), pp. 897-902. IEEE, 2022*. DOI: <a href="https://doi.org/10.1109/ICCIT57492.2022.10054710" target="_blank" rel="noopener">10.1109/ICCIT57492.2022</a>
 
 
 
@@ -55,22 +55,31 @@ Full list is on <a href="https://scholar.google.com/citations?user=qr34ziEAAAAJ&
 
 <span id="projects" class="anchor-top"></span>
 ## Projects {#projects}
--	BanglaBERT-Defense: Analyzing Adversarial Attacks in Low-Resource NLP | <a href="https://github.com/nazrul-99/Bangla-Ner-Adversial-Attack" target="_blank" rel="noopener">github_link </a> | Pytorch, Python <br>
-    &nbsp; &nbsp;  A project for improving NLP security for low-resource languages, especially Bangla. Here, I set out to answer a simple question: How vulnerable are our best Bangla language models to adversarial attacks?
--	Simple Reinforcement Learning and Lightweight LLM for Text-to-SQL Generation  | <a href="https://github.com/nazrul-99/Text-to-Sql/tree/master" target="_blank" rel="noopener">github_link </a> | Pytorch, Python <br>
-    &nbsp; &nbsp; A tiny BERT-based model—paired with a simple reinforcement learning (RL) algorithm that could translate English texts into proper SQL commands. Here I used well-known Spider dataset.
-- Simulation of Season Change using OpenGL | <a href="https://github.com/nazrul-99/Simulation-of-Season-Change-using-OpenGL" target="_blank" rel="noopener">github_link </a> | OpenGL, C++ <br>
-    &nbsp; &nbsp; The project contains a 3D scene of a village where the change of season is shown. The scene is developed using textures, lighting properties and shading.
-- ML Toolkit & Projects: Learning through Experimentation | <a href="https://github.com/nazrul-99/ML" target="_blank" rel="noopener">github_link </a> | Python, TensorFlow, SciPy, Scikit-learn, NumPy, Pandas <br> 
-    &nbsp; &nbsp; The repository features various machine learning algorithms and tools to demonstrate how they work and to build practical projects. It covers clustering methods such as DBSCAN and K-Means, as well as classification models including Decision Trees, SVM, and others.
-- Blood Transfusion System | <a href="https://github.com/nazrul-99/Blood-Transfustion-System" target="_blank" rel="noopener">github_link </a> | Java, OSM, Firebase, Android Studio <br>
-	&nbsp; &nbsp; The android application is built by maintaining traditional software development methods. It is constructed keeping in mind the Blood Transfusion Unit.
-- Animal World | <a href="https://github.com/nazrul-99/Animal-World" target="_blank" rel="noopener">github_link </a> | Python, OpenCV, Matplotlib <br>
-	&nbsp; &nbsp; A simple simulation of three animals' ecosystems has been developed for AI Lab.
-- Cinema Hall Booking System | <a href="https://github.com/nazrul-99/Cinema-Hall-Booking-System-ASP.NET" target="_blank" rel="noopener">github_link </a> | HTML, CSS, ASP dot net <br>
-	&nbsp; &nbsp; A website is built using ASP.net for booking or buying movies and making payments.
-- Mini Compiler | <a href="https://github.com/nazrul-99/Mini-Compiler-Design-Project" target="_blank" rel="noopener">github_link </a> | C, CPP, Flex, Bison <br>
-	&nbsp; &nbsp; It is a simple compiler where basic arithmetic and logical operations are implemented together with for and while loops. Also, the function definition is present.
+
+
+- <span style="margin-left: 16px; display: block;">***BanglaBERT-Defense: Analyzing Adversarial Attacks in Low-Resource NLP*** | [GitHub](https://github.com/nazrul-99/Bangla-Ner-Adversial-Attack) | *PyTorch, Python* </span>
+  - Investigated vulnerability of Bangla language models to adversarial attacks to improve NLP security for low-resource languages. Here, I set out to answer a simple question: How vulnerable are our best Bangla language models to adversarial attacks?
+
+- <span style="margin-left: 16px; display: block;">**Simple Reinforcement Learning and Lightweight LLM for Text-to-SQL Generation** | [GitHub](https://github.com/nazrul-99/Text-to-Sql/tree/master) | *PyTorch, Python*</span>
+  - Developed a Tiny-BERT-based model with reinforcement learning to translate English text into SQL queries using the Spider dataset.
+
+- <span style="margin-left: 16px; display: block;">**Simulation of Season Change using OpenGL** | [GitHub](https://github.com/nazrul-99/Simulation-of-Season-Change-using-OpenGL) | *OpenGL, C++* </span>
+  - Created a 3D village scene demonstrating seasonal changes with textures, lighting, and shading effects.
+
+- <span style="margin-left: 16px; display: block;">**ML Toolkit & Projects: Learning through Experimentation** | [GitHub](https://github.com/nazrul-99/ML) | *Python, TensorFlow, SciPy, Scikit-learn* </span>
+  -  Comprehensive repository implementing various ML algorithms including DBSCAN, K-Means, Decision Trees, and SVM for learning purposes.
+
+- <span style="margin-left: 16px; display: block;">***Blood Transfusion System*** | [GitHub](https://github.com/nazrul-99/Blood-Transfustion-System) | *Java, OSM, Firebase, Android Studio* </span>
+  - Android application developed using traditional software engineering methods for blood transfusion management.
+
+- <span style="margin-left: 16px; display: block;">***Animal World*** | [GitHub](https://github.com/nazrul-99/Animal-World) | *Python, OpenCV, Matplotlib* </span>
+  - Ecosystem simulation of three animal species developed for AI Laboratory coursework.
+
+- <span style="margin-left: 16px; display: block;">***Cinema Hall Booking System*** | [GitHub](https://github.com/nazrul-99/Cinema-Hall-Booking-System-ASP.NET) | *HTML, CSS, ASP.NET* </span>
+  - Web-based ticket booking and payment system for cinema halls built with ASP.NET.
+
+- <span style="margin-left: 16px; display: block;">***Mini Compiler*** | [GitHub](https://github.com/nazrul-99/Mini-Compiler-Design-Project) | *C, C++, Flex, Bison*</span>
+  - Compiler implementation supporting basic arithmetic, logical operations, loops (for/while), and function definitions.
 
 ---
 
